@@ -3,7 +3,7 @@
 
 ## clone project
 ```
-gi
+git clone https://github.com/Andesome/teapack-demo.git
 ```
 
 ## install
